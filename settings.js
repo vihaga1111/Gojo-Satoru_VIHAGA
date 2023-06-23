@@ -19,31 +19,31 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['Your Number']
-global.premium = ['Your Number']
-global.ownernomer = 'Your Number'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'Gojo-Satoru'
-global.footer = '©NexusNwInc.'
-global.ig = 'https://github.com/nexusNw'
+global.owner = ['94741842307']
+global.premium = ['94741842307']
+global.ownernomer = '94741842307'
+global.ownername = '𝐌𝐫 𝐕𝐢𝐡𝐚𝐠𝐚🌈™ 𝙾𝙵𝙲'
+global.botname = '🐦Star Boy Nexus'
+global.footer = '©.𝐌𝐫 𝐕𝐢𝐡𝐚𝐠𝐚🌈™ 𝙾𝙵𝙲'
+global.ig = '-'
 global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
+global.sc = '-'
+global.myweb = 'https://youtube.com/@SLTECHVIHAGA'
+global.packname = '𝐌𝐫 𝐕𝐢𝐡𝐚𝐠𝐚🌈™ 𝙾𝙵𝙲'
 global.author = '🐦Star Boy Nexus'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
+    success: '✅ ඔයගෙ වැඩේ ඉවරයි හොදේ..! ✓',
+    admin: '👸 *ඔය කමන්ඩ් එක ඇඩ්මින්ලට විතරයි හොදේ* 👾,........ !*',
     botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
+    owner: '*👸 *ඔය කමන්ඩ් එක *OWNER* විතරයි හොදේ* ........ !*',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
+    wait: '*♲ සුලු වෙලවක් දැදී සිටින්න* *🔎👸.......*',
+    error: '*කිසියම්හෝ දෝශයක්..........*🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
